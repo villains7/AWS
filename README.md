@@ -1,4 +1,6 @@
 # AWS
+教材：はじめてのAWS Udemy・山浦清透先生
+https://www.udemy.com/course/aws-for-beginner/
 ### アベイラビリティゾーン？
 独立したデータセンターのこと。リージョンごとに複数存在する。複数存在することでリスク分散
 ### VPC?
